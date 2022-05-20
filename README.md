@@ -8,8 +8,8 @@ Tool Summary 是一个用来降低在不同项目中反复编写重复代码的�
 
 目前汇总
 
-| 工具名称                                           | 工具介绍 |
-| -------------------------------------------------- | -------- |
-| [Mybatis Generator](./Mybatis Generator/README.MD) |          |
-| [Pages Tool](./Pages Tool/README.MD)               |          |
+| 工具名称                                                     | 工具介绍 |
+| ------------------------------------------------------------ | -------- |
+| [Mybatis Generator](Tool Summary/Mybatis Generator/README.MD) |          |
+| [Pages Tool](Tool Summary//Pages Tool/README.MD)             |          |
 
