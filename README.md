@@ -19,6 +19,7 @@ Tool Summary 是一个用来降低在不同项目中反复编写重复代码的�
 | [Properties Tool](./Properties-Tool/)               | Properties Tool模块提供一个读取Spring Boot的Properties配置文件的工具类 |
 | [Redis Tool](./Redis-Tool/)                         | Redis Tool模块提供一个对Redis操作的工具类                    |
 | [Mybatis-Plus Generator](./Mybatis-Plus-Generator/) | Mybatis-Plus Generator 会比Mybatis Generator多生成数据库的service层，且配置更简单 |
+| [RestTemplate Snippet](./RestTemplate-Snippet)      | RestTemplate 快速使用的代码片段                              |
 
 
 
