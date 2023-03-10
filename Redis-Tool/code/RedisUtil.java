@@ -17,15 +17,7 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
- * <B>文件名称：</B><BR>
- * <B>文件描述：</B><BR>
- * <BR>
- * <B>版权声明：</B>(C)1993-2019<BR>
- * <B>公司部门：</B>博汇科技  事业一部<BR>
- * <B>创建时间：</B>2019-03-14 17:07<BR>
  *
- * @author zuoxuanrui
- * @version 2.3.0.1
  */
 @Component
 @Slf4j
